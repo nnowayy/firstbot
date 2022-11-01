@@ -34,8 +34,8 @@
 			</picture>
 		</div>
 		<div class="cafe-item-label">
-			<span class="cafe-item-title">Burger</span>
-			<span class="cafe-item-price">$4.99</span>
+			<span class="cafe-item-title">Bitcoin</span>
+			<span class="cafe-item-price">$222,321</span>
 		</div>
 		<div class="cafe-item-buttons">
 			<button class="cafe-item-decr-button js-item-decr-btn button-item ripple-handler">
